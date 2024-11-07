@@ -29,7 +29,7 @@ SpaceX_Landing_Prediction_Tutorial/
 ├── requirements.txt         # List of dependencies
 └── LICENSE                  # Project license
 
-# Installation
+## Installation
 
 1. Clone this repository:
 
@@ -46,7 +46,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 
 
-# Usage
+## Usage
 
 This tutorial guides you through the following steps:
 
@@ -60,7 +60,7 @@ To run the tutorial, start by opening the notebook in Jupyter:
 jupyter notebook notebooks/SpaceX_Data_Collection_and_Analysis.ipynb
 
 
-# Project Walkthrough
+## Project Walkthrough
 
 The following sections detail each step in the project:
 
@@ -71,11 +71,11 @@ The following sections detail each step in the project:
 
 
 
-# Contributing
+## Contributing
 We welcome contributions! If you'd like to improve the project, please fork the repository, create a new branch, and submit a pull request.
 
 
-# License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
