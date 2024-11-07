@@ -1,6 +1,6 @@
 # SpaceX Falcon 9 Landing Prediction Tutorial
 
-![Project Banner](images/banner.png)
+![Project Banner](https://github.com/dijasila/SpaceX_Landing_Prediction_Tutorial/blob/main/images/banner.PNG)
 
 ## Overview
 
