@@ -20,7 +20,6 @@ This tutorial is designed for beginner-to-intermediate data scientists and inclu
 
 ## Repository Structure
 
-```plaintext
 SpaceX_Landing_Prediction_Tutorial/
 ├── data/                    # Datasets and data sources
 ├── notebooks/               # Jupyter notebooks for in-depth walkthrough
@@ -86,5 +85,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 3. **Model Training**: Create `scripts/model_training.py` for model-related code.
 4. **Images**: Include any key visualizations in the `images/` folder, and update the README with these.
 
-I’ll extract and adapt content from the notebook to create these components and a more polished README. Let me know if you’d like me to proceed with additional specifics! &#8203;:contentReference[oaicite:0]{index=0}&#8203;
+
 
