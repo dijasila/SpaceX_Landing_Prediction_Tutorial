@@ -1,7 +1,7 @@
 # SpaceX Falcon 9 Landing Prediction Tutorial
 
 ![Project Banner](https://github.com/dijasila/SpaceX_Landing_Prediction_Tutorial/blob/main/images/banner.PNG)
-
+![Rockets](https://github.com/dijasila/SpaceX_Landing_Prediction_Tutorial/blob/main/images/resp_struct2.PNG)
 ## Overview
 
 This repository provides a tutorial on using Python and data science techniques to predict the landing success of SpaceX's Falcon 9 first stage. Through this project, you'll learn how to collect data via APIs, preprocess and analyze the data, and build a machine learning model to make predictions on Falcon 9 landings.
